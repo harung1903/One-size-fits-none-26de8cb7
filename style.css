@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+h2 {
+	color: purple;
+}
+li{
+  font-weight: normal;
+  color: red;
+  font-size: 250%;
+}
+ol{
+	color: red;
+}
+img{ 
+    height: 700px;
+   	width: 700px;
+ }
